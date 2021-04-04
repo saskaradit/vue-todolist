@@ -1,0 +1,22 @@
+{
+  "tasks" : [
+    {
+        "id":1,
+        "text": "Update Ansible",
+        "day": "29 March",
+        "reminder": true
+      },
+      {
+        "id":2,
+        "text": "Create VUE",
+        "day": "29 March",
+        "reminder": true
+      },
+      {
+        "id":3,
+        "text": "Edit Photo",
+        "day": "29 March",
+        "reminder": false
+      }
+  ]
+}
